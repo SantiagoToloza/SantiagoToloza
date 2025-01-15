@@ -3,9 +3,6 @@
 ### <div align="center">I'm Santiago Toloza, a full-time front end React developer 👨‍💻 , i'm from Argentina🚀</div>  
   
 
-- 🔭 I’m currently working on [QrScan and Generator ](https://github.com/SantiagoToloza/QRAPPreact)  
-  
-
 - 🌱 I’m currently learning nodejs,graphql,socket.io  
   
 
