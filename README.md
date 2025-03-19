@@ -1,87 +1,63 @@
+# Santiago Toloza - Full Stack Developer Portfolio
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-green)](https://santiagotoloza.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/santiagotoloza/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-black)](https://github.com/santiagotoloza)
 
-### <div align="center">I'm Santiago Toloza, a full-time front end React developer 👨‍💻 , i'm from Argentina🚀</div>  
-  
+¡Hola! 👋 Soy **Santiago Toloza**, un Desarrollador Full Stack con más de 3 años de experiencia en la creación de aplicaciones web modernas y escalables.
 
-- 🌱 I’m currently learning nodejs,graphql,socket.io  
-  
+## 🛠 Tecnologías Principales
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
-<br/>  
+### Bases de Datos
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 🚀 Proyectos Destacados
 
+### Sistema de Gestión de Flotas (Genova)
+- **Stack**: React, Material UI, JWT, Node.js
+- Desarrollé sistema de autenticación/autorización con JWT
+- Implementé generación de reportes en PDF/Excel
+- Creación de módulo de monitoreo en tiempo real
 
+### Plataforma Educativa (Medeak México)
+- **Stack**: Next.js, Prisma, MySQL, Firebase
+- Lideré desarrollo frontend para 5,000+ usuarios
+- Implementación de sistema de roles y contenido multimedia
+- Integración con Google Cloud Identity Platform
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
+## 📚 Educación
+- **Licenciatura en Sistemas** - Universidad Nacional de La Plata (En curso)
+- **Técnico Informático** - Escuela Técnica (EGRESADO)
 
-</td><td valign="top" width="33%">
+## 📫 Contacto
+- 📧 Email: [santiago.b.toloza@gmail.com](mailto:santiago.b.toloza@gmail.com)
+- 🌐 Portfolio: [santiagotoloza.com](https://santiagotoloza.com)
+- 📍 Ubicación: La Plata, Buenos Aires, Argentina
 
+## ⚡ Certificaciones
+- Scrum 2022: Gestión Ágil de Proyectos
+- React: La Guía Completa (Udemy)
+- .NET Accenture Bootcamp
+- Ethereum Smart Contract Development
 
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-
-<div align="center">
-<a href="https://github.com/https://github.com/SantiagoToloza" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/santiagotoloza/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/santiagotooloza/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/santiagotoloza_/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SantiagoToloza&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
+[![Visitas](https://komarev.com/ghpvc/?username=santiagotoloza&color=blueviolet)](https://github.com/santiagotoloza)
